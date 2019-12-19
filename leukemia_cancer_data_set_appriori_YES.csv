@@ -1,0 +1,302 @@
+Gender,BMI,Age,Systolic BP,Diastolic BP,Pulse,Total Cholesterol,S.Tryglycerides,LDL Cholesterol,HDL Cholesterol,class
+Male,Over Weight,prime working age,High Pressure,Stage2,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,mature working age,High Pressure,Stage2,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,Good HDL,Yes
+Female,Normal Weight,prime working age,Elevated,Stage2,Normal,Low Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Hyper_stage1,Stage2,Normal,High Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Obesity,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Elevated,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,mature working age,Elevated,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,mature working age,High Pressure,Stage1,Bradycardia,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,early working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Obesity,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,High Pressure,Stage2,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,early working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Normal,Normal,Medium Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Obesity,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,Medium Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,High Pressure,Stage2,Normal,Medium Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Over Weight,mature working age,Hyper_stage1,Stage2,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,High Cholesterol,Very High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Elevated,Normal,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Hyper_stage1,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,Good HDL,Yes
+Female,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Very High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Normal,Stage1,Tachycardia,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,Good HDL,Yes
+Female,Normal Weight,mature working age,Elevated,Stage1,Normal,High Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,mature working age,High Pressure,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,mature working age,High Pressure,Stage2,Normal,Medium Cholesterol,Very High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,early working age,Normal,Normal,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,High Pressure,Stage2,Normal,High Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Under Weight,prime working age,Hyper_stage1,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Elevated,Stage1,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Elevated,Stage2,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,mature working age,High Pressure,Stage1,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Elevated,Stage2,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,Good HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Normal,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Elevated,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Elevated,Stage1,Tachycardia,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,Elevated,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Elevated,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Elevated,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,High Pressure,Stage2,Tachycardia,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Obesity,prime working age,Elevated,Stage2,Normal,High Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Bradycardia,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Male,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Bradycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,Medium Cholesterol,Very High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Stage1,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,mature working age,High Pressure,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,mature working age,High Pressure,Stage1,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Stage1,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Obesity,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,Good HDL,Yes
+Male,Normal Weight,prime working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,mature working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,mature working age,High Pressure,Stage1,Normal,Medium Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Under Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Obesity,early working age,Elevated,Stage2,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Elevated,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Obesity,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Stage1,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Tachycardia,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Hyper_stage1,Stage1,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,early working age,Elevated,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,mature working age,High Pressure,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Obesity,mature working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,mature working age,High Pressure,Hypertensive Crisis,Normal,Low Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Tachycardia,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,Good HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Tachycardia,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Obesity,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Elevated,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Tachycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Obesity,mature working age,High Pressure,Stage2,Normal,High Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Obesity,prime working age,Elevated,Normal,Normal,Medium Cholesterol,Normal Tryglycerides,Risk LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,early working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,High Pressure,Stage1,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,prime working age,Elevated,Stage1,Tachycardia,Medium Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Elevated,Stage2,Normal,Medium Cholesterol,Very High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Risk LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Elevated,Stage2,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Normal,Normal,Bradycardia,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Obesity,prime working age,Hyper_stage1,Stage2,Normal,Low Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Elevated,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,High Pressure,Stage2,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage1,Normal,Medium Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,Good HDL,Yes
+Female,Normal Weight,mature working age,Normal,Normal,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,early working age,Elevated,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Stage1,Normal,High Cholesterol,Very High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,early working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Elevated,Stage2,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Elevated,Stage2,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Normal Weight,prime working age,Hyper_stage1,Stage2,Normal,Medium Cholesterol,High Tryglycerides,Nearly Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Hyper_stage1,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Normal Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Obesity,prime working age,Normal,Stage1,Tachycardia,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Obesity,prime working age,High Pressure,Stage2,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Stage1,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Female,Over Weight,prime working age,Normal,Normal,Normal,Low Cholesterol,High Tryglycerides,Optimal LDL,High Risk HDL,Yes
+Male,Under Weight,mature working age,Normal,Normal,Normal,Low Cholesterol,Normal Tryglycerides,Optimal LDL,High Risk HDL,Yes
